@@ -17,17 +17,19 @@ Documentação oficial: https://docs.github.com/pt/account-and-profile/how-tos/p
 
 Os trechos entre `<!--` e `-->` são comentários HTML: não aparecem na página publicada, mas ficam visíveis quando você edita o arquivo.
 
-## 3. Publicar a animação de Pac-Man
+## 3. Publicar a animação Tron Arcade
 
-O arquivo `.github/workflows/main.yml` já está preparado para usar o projeto open source `abozanona/pacman-contribution-graph`.
+O arquivo `.github/workflows/main.yml` utiliza a action [Nicsilver/commit-arcade](https://github.com/marketplace/actions/commit-arcade), configurada para jogar **Tron** sobre seu gráfico de contribuições.
 
-1. Envie a pasta `.github/workflows/` junto com o README para o repositório de perfil.
-2. Confira o nome da branch principal. Se for `master`, abra `main.yml` e troque `main` por `master` na parte `push.branches`.
-3. No GitHub, abra **Settings → Actions → General → Workflow permissions** e habilite **Read and write permissions**. Salve a alteração.
-4. Abra a aba **Actions**, escolha **generate arcade contribution graphs** e clique em **Run workflow**.
-5. Quando a execução terminar sem erros, o workflow criará/atualizará a branch `output` com os SVGs. A imagem do README passa a apontar para esses arquivos.
+1. O workflow já está no caminho correto: `.github/workflows/main.yml`.
+2. Ele gera duas imagens: `dist/tron.svg` (tema neon para modo escuro) e `dist/tron-light.svg` (tema claro).
+3. A action `crazy-max/ghaction-github-pages` publica os arquivos gerados na branch `output`.
+4. O README já aponta para `output/tron.svg` e `output/tron-light.svg`.
+5. Para acompanhar a execução, abra **Actions → Tron Arcade Contribution Graph**. O workflow também pode ser iniciado manualmente com **Run workflow**; além disso, roda diariamente às 03:00 UTC e quando há push na branch `main`.
 
-A animação usa suas contribuições reais; ela não cria commits nem aumenta a quantidade de contribuições.
+Se a publicação falhar por permissão, abra **Settings → Actions → General → Workflow permissions**, selecione **Read and write permissions** e salve.
+
+A animação usa suas contribuições reais; ela não cria commits nem aumenta a quantidade de contribuições. A primeira execução precisa terminar com sucesso para que os SVGs apareçam na branch `output`.
 
 ## 4. Configurar corretamente o autor dos próximos commits
 
@@ -110,7 +112,7 @@ Para tecnologias, use os ícones do Skill Icons; não precisa baixar cada logo m
 - GitHub Docs — README do perfil: https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme
 - Skill Icons — ícones de linguagens e ferramentas: https://skillicons.dev/
 - GitHub Readme Stats — cartões de estatísticas: https://github.com/anuraghazra/github-readme-stats
-- Pac-Man Contribution Graph — animação do gráfico: https://github.com/abozanona/pacman-contribution-graph
+- Commit Arcade — jogos animados no gráfico de contribuições: https://github.com/marketplace/actions/commit-arcade
 - Shields.io — badges personalizados: https://shields.io/
 - GitHub Profile Trophy — troféus opcionais: https://github.com/ryo-ma/github-profile-trophy
 
@@ -122,4 +124,4 @@ Para tecnologias, use os ícones do Skill Icons; não precisa baixar cada logo m
 - [ ] Não deixei e-mail ou informação pessoal que não queira divulgar.
 - [ ] Os projetos destacados são meus e têm links válidos.
 - [ ] As tecnologias listadas são ferramentas que realmente estudei ou utilizei.
-- [ ] O workflow do Pac-Man executou sem erros.
+- [ ] O workflow Tron Arcade executou sem erros.
