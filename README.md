@@ -27,7 +27,6 @@ Gosto de aprender e evoluir, transformando conteúdo que estudo em exercícios e
   <a href="https://www.linkedin.com/in/felipe-alejandro-oliveira-sousa/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:alejamdrem255@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 </p>
 
 <!-- TECNOLOGIAS: os ícones são imagens servidas pelo Skill Icons. -->
