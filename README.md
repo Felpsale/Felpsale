@@ -91,7 +91,7 @@ IMPORTANTE SOBRE OS CARTÕES:
 -->
 
 <!-- TRON ARCADE: .github/workflows/main.yml gera as imagens na branch output. -->
-## 🏎️ Meu histórico de contribuições — Tron Arcade
+## 🏎️ Meu histórico de contribuições
 
 <p align="center">
   <picture>
