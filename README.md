@@ -13,6 +13,10 @@ ANTES DE PUBLICAR:
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Felipe+Alejandro!;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Aprendendo%2C+construindo+e+evoluindo." alt="Cabeçalho animado: Olá, eu sou Felipe Alejandro" />
 </div>
 
+<div align="center">
+  <img src="./images/banner.svg" width="100%" alt="Banner futurista em tons de azul e roxo" />
+</div>
+
 <!-- APRESENTAÇÃO: mantenha o texto verdadeiro e direto. -->
 ## 👋 Sobre mim
 
@@ -32,6 +36,15 @@ Gosto de aprender e evoluir, transformando conteúdo que estudo em exercícios e
 <!-- TECNOLOGIAS: os ícones são imagens servidas pelo Skill Icons. -->
 ## 🛠️ Tecnologias e ferramentas
 
+<!-- Chibi alinhado à direita, acompanhando visualmente a seção de ferramentas. -->
+<img
+  align="right"
+  width="150"
+  src="./images/interesses/chibi-chibi-lotm.gif"
+  alt="Chibi de Lord of the Mysteries"
+  style="padding:10px"
+/>
+
 **Linguagens com as quais tenho afinidade**
 
 <p>
@@ -49,6 +62,8 @@ Gosto de aprender e evoluir, transformando conteúdo que estudo em exercícios e
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,discord,figma,react,visualstudio&theme=dark" />
 </p>
+
+<br clear="right" />
 
 <!--
 DICA: deixe nesta seção apenas tecnologias que você já estudou ou utilizou.
@@ -103,7 +118,21 @@ IMPORTANTE SOBRE OS CARTÕES:
   </picture>
 </p>
 
-<!-- IMAGENS DE INTERESSES: o chibi fica à direita, como no exemplo que você enviou. -->
+<!-- INTERESSES: mantenha aqui as imagens dos temas que você curte. -->
+## 🎮 Fora do código
+
+<p align="left">
+  <img
+    src="./images/interesses/Tokyo%20Ghoul%20GIF.gif"
+    width="220"
+    alt="Animação de Tokyo Ghoul"
+  />
+  <img
+    src="./images/interesses/klein-moretti-lord-of-the-mysteries.gif"
+    width="220"
+    alt="Klein Moretti de Lord of the Mysteries"
+  />
+</p>
 ## 🎮 Fora do código
 
 <!--
