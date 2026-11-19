@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#030712"/>
+      <stop offset=".52" stop-color="#07152b"/>
+      <stop offset="1" stop-color="#100c2b"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="22%" cy="52%" r="60%">
+      <stop offset="0" stop-color="#075985" stop-opacity=".8"/>
+      <stop offset=".48" stop-color="#123d88" stop-opacity=".23"/>
+      <stop offset="1" stop-color="#050816" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="horizon" x1="0" x2="1">
+      <stop stop-color="#00d8ff" stop-opacity="0"/>
+      <stop offset=".2" stop-color="#00d8ff"/>
+      <stop offset=".7" stop-color="#4169ff"/>
+      <stop offset="1" stop-color="#a855f7" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="trace" x1="0" x2="1">
+      <stop stop-color="#087bdb"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.5" fill="#38bdf8" opacity=".42"/>
+    </pattern>
+    <filter id="blur"><feGaussianBlur stdDeviation="22"/></filter>
+  </defs>
+  <rect width="1200" height="360" fill="url(#bg)"/>
+  <rect width="1200" height="360" fill="url(#glow)"/>
+  <ellipse cx="205" cy="190" rx="245" ry="135" fill="#087bdb" opacity=".13" filter="url(#blur)"/>
+  <circle cx="165" cy="175" r="115" fill="#0b2d63" opacity=".32" stroke="#168bff" stroke-opacity=".3"/>
+  <path d="M48 240 Q90 190 130 215 T215 195 T300 221 L300 300 L48 300Z" fill="#030817" opacity=".86"/>
+  <path d="M50 262 L50 218 L70 218 L70 245 L88 245 L88 201 L112 201 L112 235 L132 235 L132 185 L154 185 L154 230 L176 230 L176 212 L195 212 L195 249 L224 249 L224 196 L245 196 L245 235 L268 235 L268 216 L288 216 L288 269 L320 269 L320 320 L50 320Z" fill="#020611" opacity=".95"/>
+  <path d="M0 70 H95 L125 40 H255 L282 66 H370 L405 28 H520" fill="none" stroke="url(#trace)" stroke-width="2" opacity=".9"/>
+  <path d="M0 110 H55 L86 140 H218 L245 168 H324" fill="none" stroke="#078bff" stroke-width="1.4" opacity=".62"/>
+  <path d="M720 0 V34 H804 L830 60 H1035 L1068 26 H1200" fill="none" stroke="url(#trace)" stroke-width="2" opacity=".85"/>
+  <path d="M760 120 H855 L887 90 H1030 L1055 65 H1178" fill="none" stroke="#168bff" stroke-width="1.6" opacity=".7"/>
+  <path d="M875 240 H970 L1000 210 H1110 L1140 180 H1200" fill="none" stroke="#7c3aed" stroke-width="1.8" opacity=".75"/>
+  <path d="M560 0 V68 H640 L665 92 H760" fill="none" stroke="#0ea5e9" stroke-width="1.3" opacity=".48"/>
+  <path d="M0 315 H1200" stroke="url(#horizon)" stroke-width="2.5"/>
+  <path d="M0 330 H1200 M90 360 L340 315 M260 360 L430 315 M450 360 L520 315 M650 360 L610 315 M850 360 L700 315 M1030 360 L790 315 M1190 360 L880 315" fill="none" stroke="#1676cf" stroke-width="1" opacity=".2"/>
+  <rect x="920" y="24" width="190" height="95" fill="url(#dots)" opacity=".75"/>
+  <rect x="415" y="226" width="160" height="72" fill="url(#dots)" opacity=".25"/>
+  <g fill="#22d3ee">
+    <circle cx="255" cy="40" r="4"/><circle cx="405" cy="28" r="4"/>
+    <circle cx="830" cy="60" r="4"/><circle cx="1055" cy="65" r="3.5"/>
+  </g>
+  <g fill="#8b5cf6">
+    <rect x="1110" y="142" width="7" height="7"/><rect x="690" y="168" width="6" height="6"/>
+    <rect x="480" y="120" width="5" height="5"/>
+  </g>
+  <rect x="1" y="1" width="1198" height="358" fill="none" stroke="#1d4ed8" stroke-opacity=".22"/>
+</svg>
