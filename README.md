@@ -133,37 +133,7 @@ IMPORTANTE SOBRE OS CARTÕES:
     alt="Klein Moretti de Lord of the Mysteries"
   />
 </p>
-## 🎮 Fora do código
 
-<!--
-Imagem animada do chibi.
-O align="right" posiciona a imagem à direita do conteúdo; width controla o tamanho.
-Ajuste width se quiser o chibi maior ou menor.
--->
-<img
-  align="right"
-  width="150"
-  src="./images/interesses/chibi-chibi-lotm.gif"
-  alt="Chibi de Lord of the Mysteries"
-  style="padding:10px"
-/>
-
-<!-- Outras imagens de interesses ficam à esquerda do chibi. -->
-<p align="left">
-  <img
-    src="./images/interesses/Tokyo%20Ghoul%20GIF.gif"
-    width="220"
-    alt="Animação de Tokyo Ghoul"
-  />
-  <img
-    src="./images/interesses/klein-moretti-lord-of-the-mysteries.gif"
-    width="220"
-    alt="Klein Moretti de Lord of the Mysteries"
-  />
-</p>
-
-<!-- Limpa o alinhamento à direita para que o rodapé volte ao fluxo normal. -->
-<br clear="right" />
 
 <div align="center">
   <sub>“Aprender, construir, testar e melhorar — um passo de cada vez.”</sub>
