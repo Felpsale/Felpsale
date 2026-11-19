@@ -14,7 +14,11 @@ ANTES DE PUBLICAR:
 </div>
 
 <div align="center">
-  <img src="./images/banner.svg" width="100%" alt="Banner futurista em tons de azul e roxo" />
+  <img
+    src="./images/interesses/Tokyo%20Ghoul%20GIF.gif"
+    width="100%"
+    alt="Animação de Tokyo Ghoul"
+  />
 </div>
 
 <!-- APRESENTAÇÃO: mantenha o texto verdadeiro e direto. -->
@@ -122,11 +126,6 @@ IMPORTANTE SOBRE OS CARTÕES:
 ## 🎮 Fora do código
 
 <p align="left">
-  <img
-    src="./images/interesses/Tokyo%20Ghoul%20GIF.gif"
-    width="220"
-    alt="Animação de Tokyo Ghoul"
-  />
   <img
     src="./images/interesses/klein-moretti-lord-of-the-mysteries.gif"
     width="220"
