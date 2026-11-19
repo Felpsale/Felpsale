@@ -95,9 +95,9 @@ IMPORTANTE SOBRE OS CARTÕES:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/pacman-contribution-graph.svg" />
-    <img alt="Animação de Pac-Man percorrendo meu histórico de contribuições" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/pacman-contribution-graph.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Felpsale/Felpsale/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Felpsale/Felpsale/output/pacman-contribution-graph.svg" />
+    <img alt="Animação de Pac-Man percorrendo meu histórico de contribuições" src="https://raw.githubusercontent.com/Felpsale/Felpsale/output/pacman-contribution-graph.svg" />
   </picture>
 </p>
 
