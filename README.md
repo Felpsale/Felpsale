@@ -90,14 +90,16 @@ IMPORTANTE SOBRE OS CARTÕES:
   hospedar sua própria instância e configurar um token com cuidado.
 -->
 
-<!-- PAC-MAN: o workflow em .github/workflows/main.yml gera estes arquivos na branch output. -->
-## 👾 Meu histórico de contribuições
+<!-- TRON ARCADE: .github/workflows/main.yml gera as imagens na branch output. -->
+## 🏎️ Meu histórico de contribuições — Tron Arcade
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Felpsale/Felpsale/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Felpsale/Felpsale/output/pacman-contribution-graph.svg" />
-    <img alt="Animação de Pac-Man percorrendo meu histórico de contribuições" src="https://raw.githubusercontent.com/Felpsale/Felpsale/output/pacman-contribution-graph.svg" />
+    <!-- Versão neon para quem utiliza o tema escuro do GitHub. -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Felpsale/Felpsale/output/tron.svg" />
+    <!-- Versão clara para quem utiliza o tema claro do GitHub. -->
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Felpsale/Felpsale/output/tron-light.svg" />
+    <img width="100%" alt="Jogo Tron animado sobre meu histórico de contribuições do GitHub" src="https://raw.githubusercontent.com/Felpsale/Felpsale/output/tron-light.svg" />
   </picture>
 </p>
 
