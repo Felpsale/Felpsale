@@ -48,7 +48,7 @@ Gosto de aprender e evoluir, transformando conteúdo que estudo em exercícios e
 **Ferramentas**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub e Visual Studio Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark,discord,figma,react,visualstudio" alt="Git, GitHub e Visual Studio Code" />
 </p>
 
 <!--
