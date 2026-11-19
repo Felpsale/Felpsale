@@ -1,110 +1,122 @@
+<!--
+README DE PERFIL — FELIPE ALEJANDRO OLIVEIRA SOUSA
+
+ANTES DE PUBLICAR:
+1. Substitua TODAS as ocorrências de SEU_USUARIO pelo seu nome de usuário do GitHub.
+2. Confirme se o link do LinkedIn está correto.
+3. Só adicione e-mails ou imagens que você realmente queira deixar públicos.
+4. Os comentários HTML como este não aparecem na página renderizada; eles servem para orientar a edição.
+-->
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
+  <!-- Cabeçalho animado. Você pode trocar os textos depois de "lines=". -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Felipe+Alejandro!;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Aprendendo%2C+construindo+e+evoluindo." alt="Cabeçalho animado: Olá, eu sou Felipe Alejandro" />
 </div>
 
-#
+<!-- APRESENTAÇÃO: mantenha o texto verdadeiro e direto. -->
+## 👋 Sobre mim
 
-Me chamo Felipe Alejandro Oliveira Sousa, tenho 19 anos e moro na zona Sul de São Paulo. Atualmente eu curso como Técnico de Análise e Desenvolvimento de Sistemas no SENAC de Santo Amaro. Atualmente faço o curso profissionalizante PROA, e sou tenho afinidade com as linguagens de Java, Javascript e C#.
- 
-#
+Estou cursando **Técnico em Análise e Desenvolvimento de Sistemas no SENAC Santo Amaro** e também participo de uma formação profissionalizante no **Instituto PROA**.
 
-<img align="right" alt="" height="190px" src="./src/edgerunners.gif">
+Gosto de aprender colocando a mão na massa: transformo o conteúdo que estudo em exercícios e projetos, testo soluções e procuro entender o que acontece por trás do código. Tenho afinidade principalmente com **Java, JavaScript e C#** e estou sempre buscando ampliar meus conhecimentos em desenvolvimento de software.
 
-<h3 align="left">Connect with me!</h3>
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:alejamdrem255@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)]([https://www.linkedin.com/in/paulopontodev/](https://www.linkedin.com/in/felipe-alejandro-oliveira-sousa/))
-
-
-<h3 align="left">My Stack ~</h3>
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img
-    align="left"
-    alt="Github"
-    title="GitHub"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img
-    align="left"
-    alt="Vercel"
-    title="Vercel"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
-/>
-<br/>
-<br/>
-
-<h3 align="left">GitHub Stats</h3>
+<!-- CONTATO: ajuste o LinkedIn caso o endereço tenha mudado. -->
+## 📫 Onde me encontrar
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=paulopontodev&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=paulopontodev&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
-  />
-
+  <a href="https://www.linkedin.com/in/felipe-alejandro-oliveira-sousa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <!--
+  Para exibir seu e-mail publicamente, remova os comentários desta linha
+  e substitua SEU_EMAIL pelo endereço que você aceita divulgar:
+  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+  -->
 </p>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- TECNOLOGIAS: os ícones são imagens servidas pelo Skill Icons. -->
+## 🛠️ Tecnologias e ferramentas
+
+**Linguagens com as quais tenho afinidade**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,cs&theme=dark" alt="Java, JavaScript e C sharp" />
+</p>
+
+**Desenvolvimento web e banco de dados**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,mysql&theme=dark" alt="HTML, CSS, Bootstrap e MySQL" />
+</p>
+
+**Ferramentas**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub e Visual Studio Code" />
+</p>
+
+<!--
+DICA: deixe nesta seção apenas tecnologias que você já estudou ou utilizou.
+Não é necessário colocar uma ferramenta só porque ela é popular.
+A lista de ícones disponíveis está em https://skillicons.dev/.
+-->
+
+<!-- PROJETOS: substitua os exemplos pelos seus repositórios reais. -->
+## 💻 Projetos em destaque
+
+<!--
+Copie o modelo abaixo para cada projeto que queira apresentar:
+
+### [Nome do projeto](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO)
+Breve descrição do problema que o projeto resolve e do que você desenvolveu.
+**Tecnologias:** Java, MySQL, HTML e CSS.
+
+Escolha de dois a quatro projetos bem documentados. Explique sua contribuição,
+como executar o projeto e o que você aprendeu.
+-->
+
+<!-- ESTATÍSTICAS: substitua SEU_USUARIO nas duas URLs abaixo. -->
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="Linguagens mais usadas nos repositórios" />
+</div>
+
+<!--
+IMPORTANTE SOBRE OS CARTÕES:
+- Eles consultam dados do GitHub; não edite números manualmente.
+- O cartão de linguagens estima a distribuição do código dos repositórios públicos,
+  não seu nível de domínio em cada linguagem.
+- O serviço padrão mostra estatísticas públicas. Para dados privados, seria preciso
+  hospedar sua própria instância e configurar um token com cuidado.
+-->
+
+<!-- PAC-MAN: o workflow em .github/workflows/main.yml gera estes arquivos na branch output. -->
+## 👾 Meu histórico de contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/pacman-contribution-graph.svg" />
+    <img alt="Animação de Pac-Man percorrendo meu histórico de contribuições" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/pacman-contribution-graph.svg" />
+  </picture>
+</p>
+
+<!-- IMAGENS PESSOAIS: opcional. Primeiro envie seus arquivos para images/interesses/. -->
+<!--
+## 🎮 Fora do código
+
+<p align="center">
+  <img src="./images/interesses/cyberpunk.gif" width="220" alt="Cena de Cyberpunk" />
+  <img src="./images/interesses/skyrim.jpg" width="220" alt="Imagem de Skyrim" />
+  <img src="./images/interesses/project-zomboid.jpg" width="220" alt="Imagem de Project Zomboid" />
+</p>
+
+Use capturas de tela próprias, artes suas ou imagens com permissão/licença adequada.
+Troque os nomes dos arquivos pelos arquivos que realmente colocou na pasta.
+-->
+
+<div align="center">
+  <sub>“Aprender, construir, testar e melhorar — um passo de cada vez.”</sub>
+</div>
