@@ -103,17 +103,38 @@ IMPORTANTE SOBRE OS CARTÕES:
   </picture>
 </p>
 
-<!-- IMAGENS PESSOAIS: opcional. Primeiro envie seus arquivos para images/interesses/. -->
+<!-- IMAGENS DE INTERESSES: o chibi fica à direita, como no exemplo que você enviou. -->
+## 🎮 Fora do código
 
-<p align="center">
-  <img src="./images/interesses/Tokyo Ghoul GIF.gif" width="220" alt="Lirio vermelho desabrochando" />
-  <img src="./images/interesses/skyrim.jpg" width="220" alt="Imagem de Skyrim" />
-  <img src="./images/interesses/project-zomboid.jpg" width="220" alt="Imagem de Project Zomboid" />
-</p>
 <!--
-Use capturas de tela próprias, artes suas ou imagens com permissão/licença adequada.
-Troque os nomes dos arquivos pelos arquivos que realmente colocou na pasta.
+Imagem animada do chibi.
+O align="right" posiciona a imagem à direita do conteúdo; width controla o tamanho.
+Ajuste width se quiser o chibi maior ou menor.
 -->
+<img
+  align="right"
+  width="150"
+  src="./images/interesses/chibi-chibi-lotm.gif"
+  alt="Chibi de Lord of the Mysteries"
+  style="padding:10px"
+/>
+
+<!-- Outras imagens de interesses ficam à esquerda do chibi. -->
+<p align="left">
+  <img
+    src="./images/interesses/Tokyo%20Ghoul%20GIF.gif"
+    width="220"
+    alt="Animação de Tokyo Ghoul"
+  />
+  <img
+    src="./images/interesses/klein-moretti-lord-of-the-mysteries.gif"
+    width="220"
+    alt="Klein Moretti de Lord of the Mysteries"
+  />
+</p>
+
+<!-- Limpa o alinhamento à direita para que o rodapé volte ao fluxo normal. -->
+<br clear="right" />
 
 <div align="center">
   <sub>“Aprender, construir, testar e melhorar — um passo de cada vez.”</sub>
