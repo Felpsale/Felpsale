@@ -16,9 +16,9 @@ ANTES DE PUBLICAR:
 <!-- APRESENTAÇÃO: mantenha o texto verdadeiro e direto. -->
 ## 👋 Sobre mim
 
-Estou cursando **Técnico em Análise e Desenvolvimento de Sistemas no SENAC Santo Amaro** e também participo de uma formação profissionalizante no **Instituto PROA**.
+Estou cursando **Técnico em Análise e Desenvolvimento de Sistemas no SENAC Santo Amaro** e também participo de um curso profissionalizante no **Instituto PROA**.
 
-Gosto de aprender colocando a mão na massa: transformo o conteúdo que estudo em exercícios e projetos, testo soluções e procuro entender o que acontece por trás do código. Tenho afinidade principalmente com **Java, JavaScript e C#** e estou sempre buscando ampliar meus conhecimentos em desenvolvimento de software.
+Gosto de aprender e evoluir, transformando conteúdo que estudo em exercícios e projetos, testo soluções e procuro entender o que acontece por trás do código. Tenho afinidade principalmente com **Java, JavaScript e C#** e estou sempre buscando ampliar meus conhecimentos em desenvolvimento de software.
 
 <!-- CONTATO: ajuste o LinkedIn caso o endereço tenha mudado. -->
 ## 📫 Onde me encontrar
@@ -27,11 +27,7 @@ Gosto de aprender colocando a mão na massa: transformo o conteúdo que estudo e
   <a href="https://www.linkedin.com/in/felipe-alejandro-oliveira-sousa/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!--
-  Para exibir seu e-mail publicamente, remova os comentários desta linha
-  e substitua SEU_EMAIL pelo endereço que você aceita divulgar:
-  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
-  -->
+  <a href="mailto:alejamdrem255@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 </p>
 
 <!-- TECNOLOGIAS: os ícones são imagens servidas pelo Skill Icons. -->
