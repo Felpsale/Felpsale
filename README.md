@@ -104,15 +104,13 @@ IMPORTANTE SOBRE OS CARTÕES:
 </p>
 
 <!-- IMAGENS PESSOAIS: opcional. Primeiro envie seus arquivos para images/interesses/. -->
-<!--
-## 🎮 Fora do código
 
 <p align="center">
-  <img src="./images/interesses/cyberpunk.gif" width="220" alt="Cena de Cyberpunk" />
+  <img src="./images/interesses/Tokyo Ghoul GIF.gif" width="220" alt="Lirio vermelho desabrochando" />
   <img src="./images/interesses/skyrim.jpg" width="220" alt="Imagem de Skyrim" />
   <img src="./images/interesses/project-zomboid.jpg" width="220" alt="Imagem de Project Zomboid" />
 </p>
-
+<!--
 Use capturas de tela próprias, artes suas ou imagens com permissão/licença adequada.
 Troque os nomes dos arquivos pelos arquivos que realmente colocou na pasta.
 -->
