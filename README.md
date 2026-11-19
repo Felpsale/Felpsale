@@ -48,7 +48,7 @@ Gosto de aprender e evoluir, transformando conteúdo que estudo em exercícios e
 **Ferramentas**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark,discord,figma,react,visualstudio" alt="Git, GitHub e Visual Studio Code" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,discord,figma,react,visualstudio&theme=dark" />
 </p>
 
 <!--
@@ -75,8 +75,11 @@ como executar o projeto e o que você aprendeu.
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="Linguagens mais usadas nos repositórios" />
+<!-- Estatísticas gerais da conta -->
+<img src="https://github-readme-stats.vercel.app/api?username=Felpsale&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<!-- Distribuição das linguagens -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felpsale&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </div>
 
 <!--
