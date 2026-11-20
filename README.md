@@ -67,8 +67,14 @@ Gosto de aprender e evoluir, transformando conteúdo que estudo em exercícios e
 <img src="https://skillicons.dev/icons?i=git,github,vscode,discord,figma,react,visualstudio&theme=dark" />
 </p>
 
-<br clear="right" />
+<!--
+**Frameworks**
 
+<p>
+<img src="https://skillicons.dev/icons?i=" />
+</p>
+<br clear="right" />
+--> 
 <!--
 DICA: deixe nesta seção apenas tecnologias que você já estudou ou utilizou.
 Não é necessário colocar uma ferramenta só porque ela é popular.
