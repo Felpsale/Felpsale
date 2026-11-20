@@ -123,7 +123,6 @@ IMPORTANTE SOBRE OS CARTÕES:
 </p>
 
 <!-- INTERESSES: mantenha aqui as imagens dos temas que você curte. -->
-## 🎮 Fora do código
 
 <p align="left">
   <img
