@@ -63,7 +63,7 @@ Gosto de aprender na prática: transformo o conteúdo das aulas em projetos reai
 
 ## 💻 Projetos em destaque
 
-### 🌃 [Neon Bazar // Night Market][https://github.com/Felpsale/loja-escola-neon-bazar]](https://github.com/Felpsale/Loja-Escola))
+### 🌃 [Neon Bazar // Night Market](https://github.com/Felpsale/Loja-Escola)])
 Aplicação web de e-commerce fictício inspirada em *Cyberpunk 2077* e *Cyberpunk RED*. Conta com catálogo dinâmico, busca textual, filtros combinados por categoria, raridade e regras criativas, leitura de parâmetros via `URLSearchParams`, checkout com validação, consulta automática de endereço pela **API ViaCEP** e controle de estado com `sessionStorage`.
 `HTML5` · `CSS3` · `Bootstrap 5.3` · `JavaScript` · `ViaCEP`
 
